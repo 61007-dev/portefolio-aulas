@@ -1,1 +1,6 @@
-# portefolio-aulas
+# 📚 O Meu Portefólio
+
+Nome: FERNANDO MORAIS
+Disciplina:ARQUITETURA DE COMPUTADORES
+Turma: 11 PSI
+AS MINHAS AULAS
